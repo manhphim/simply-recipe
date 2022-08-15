@@ -3,7 +3,7 @@ import { Link, graphql } from "gatsby"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import { BsClockHistory, BsClock, BsPeople } from "react-icons/bs"
 import { pluralTime } from "../utils/utils"
-import Layout from "../components/layout"
+import Layout from "../components/Layout"
 import slugify from "slugify"
 import SEO from "../components/SEO"
 
